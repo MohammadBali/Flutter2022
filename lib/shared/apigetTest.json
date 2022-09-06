@@ -1,0 +1,276 @@
+/*
+ https://newsapi.org/v2/everything?q=Apple&from=2022-08-10&sortBy=popularity&apiKey=446d8385b2eb42989c1d68592317cf21
+
+ OR
+
+ https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=446d8385b2eb42989c1d68592317cf21
+ */
+
+// BUSINESS
+
+{
+  "status": "ok",
+  "totalResults": 69,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "John Rosevear",
+      "title": "Nikola CEO Mark Russell to retire at the end of the year - CNBC",
+      "description": "CEO Mark Russell will retire at the end of 2022. His replacement is former Opel CEO Michael Lohscheller, who joined Nikola in February.",
+      "url": "https://www.cnbc.com/2022/08/10/nikola-ceo-mark-russell-to-retire-at-the-end-of-the-year.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107101779-1660134262176-gettyimages-1235268607-GERMANY_NIKOLA.jpeg?v=1660134288&w=1920&h=1080",
+      "publishedAt": "2022-08-10T12:06:43Z",
+      "content": "Nikola CEO Mark Russell will retire at the end of the year, the company announced Wednesday.\r\nRussell will be replaced by Michael Lohscheller, formerly the CEO of German automaker Opel, who joined Ni… [+1457 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Peter Schacknow",
+      "title": "Stocks making the biggest moves premarket: Wendy's, Coinbase, Buzzfeed and more - CNBC",
+      "description": "These are the stocks posting the largest moves before the bell.",
+      "url": "https://www.cnbc.com/2022/08/10/stocks-making-the-biggest-moves-premarket-wendys-coinbase-buzzfeed-and-more.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107008133-16433889912022-01-28t164911z_2074059454_rc2g8s922btm_rtrmadp_0_usa-stocks-weekahead.jpeg?v=1643389096&w=1920&h=1080",
+      "publishedAt": "2022-08-10T11:51:00Z",
+      "content": "Check out the companies making headlines before the bell:\r\nWendy's (WEN) Wendy's shares fell 1% in premarket trading following a mixed quarter, which saw the restaurant chain report better-than-expec… [+2004 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Paul R. La Monica, CNN Business",
+      "title": "Crypto is making a comeback - CNN",
+      "description": "Is the crypto winter finally over? (And in the scorching heat of summer no less?)",
+      "url": "https://www.cnn.com/2022/08/10/investing/premarket-stocks-trading/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211111201150-cyrpto-currency-coins-stock-super-tease.jpg",
+      "publishedAt": "2022-08-10T10:58:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Steve Goldstein",
+      "title": "Obsessing over CPI? You could be missing bargain stocks that build long-term returns, say these fund managers - MarketWatch",
+      "description": "Critical information for the U.S. trading day",
+      "url": "https://www.marketwatch.com/story/obsessing-over-cpi-you-could-be-missing-bargain-stocks-that-can-build-long-term-returns-say-these-fund-managers-11660127418",
+      "urlToImage": "https://images.mktw.net/im-600949/social",
+      "publishedAt": "2022-08-10T10:30:00Z",
+      "content": "U.S. consumer price growth slowed to 0% in July, the Labor Department reported on Wednesday. Core price growth slowed to 0.3%, which was below forecast. Over the last 12 months, prices have gained 8.… [+5408 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Sam Meredith",
+      "title": "Treasury yields hold steady as investors await key inflation report - CNBC",
+      "description": "It is thought that Wednesday's inflation data could show price increases have eased following consecutive 75-basis point hikes by the Fed in June and July.",
+      "url": "https://www.cnbc.com/2022/08/10/us-bonds-treasury-yields-in-focus-as-investors-assess-inflation-data.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107079547-1655966566275-gettyimages-1403277565-dscf7789_wdlct9hy.jpeg?v=1660125522&w=1920&h=1080",
+      "publishedAt": "2022-08-10T06:39:34Z",
+      "content": "Treasury yields dropped on Wednesday as a highly anticipated inflation figure came in flat compared with the previous month.\r\nThe yield on the benchmark 10-year Treasury note tumbled 9 basis points t… [+1387 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Elliot Smith",
+      "title": "European stocks mixed ahead of key U.S. inflation print; Vestas up 10% - CNBC",
+      "description": "European markets were mixed on Wednesday as global investors await a key U.S. inflation print.",
+      "url": "https://www.cnbc.com/2022/08/10/europe-markets-open-to-close-key-us-inflation-print-in-focus.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106993116-1640238733057-gettyimages-1237243426-FRANCE_STOCKS.jpeg?v=1640238837&w=1920&h=1080",
+      "publishedAt": "2022-08-10T06:00:57Z",
+      "content": "LONDON European markets were mixed on Wednesday as global investors await a key U.S. inflation print.\r\nThe pan-European Stoxx 600 was roughly flat by late morning. Travel and leisure stocks gained 1.… [+1939 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Musk sells Tesla shares worth $6.9 billion, cites chance of forced Twitter deal - Reuters.com",
+      "description": "Tesla Inc <a href=\"https://www.reuters.com/companies/TSLA.O\" target=\"_blank\">(TSLA.O)</a> Chief Executive Officer Elon Musk sold $6.9 billion worth of shares in the electric vehicle maker, saying the funds could be used to finance a potential Twitter deal if …",
+      "url": "https://www.reuters.com/business/autos-transportation/elon-musk-sells-792-million-tesla-shares-worth-69-billion-sec-filing-2022-08-10/",
+      "urlToImage": "https://www.reuters.com/resizer/SF3RL4wYCDiQ98HiIIER-olZ6eM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XFTKTFGW6VI65KS2CXYZND5TBU.jpg",
+      "publishedAt": "2022-08-10T04:35:00Z",
+      "content": "Aug 10 (Reuters) - Tesla Inc (TSLA.O) Chief Executive Officer Elon Musk sold $6.9 billion worth of shares in the electric vehicle maker, saying the funds could be used to finance a potential Twitter … [+2421 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Micron Warning Adds to Evidence of Chip Demand Collapse - Bloomberg Markets and Finance",
+      "description": "Semiconductors are under a lot of pressure as Micron Technology Inc.’s latest warning spooks the market. Su Keenan reports on Bloomberg Television. --------F...",
+      "url": "https://www.youtube.com/watch?v=jKzYyD3jYSM",
+      "urlToImage": "https://i.ytimg.com/vi/jKzYyD3jYSM/hqdefault.jpg",
+      "publishedAt": "2022-08-10T03:15:08Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Michael Laris",
+      "title": "Southwest Airlines flight attendant fractures back in landing - The Washington Post",
+      "description": "The National Transportation Safety Board said the flight attendant thought the plane had crashed because of the force involved.",
+      "url": "https://www.washingtonpost.com/transportation/2022/08/09/southwest-flight-attendant-fractured-back/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UPI2WPQN3MI63CHIYWG4HW5O4I.jpg&w=1440",
+      "publishedAt": "2022-08-10T02:32:00Z",
+      "content": "Comment on this story\r\nA hard landing on a Southwest Airlines plane that was carrying 142 passengers and crew fractured a flight attendants vertebra last month at Californias John Wayne Airport, acco… [+1751 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "China Consumer Inflation Reaches 2-Year High as Pork Surges - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a256ee8f-1879-11ed-98f8-6579755a5974&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wOC0xMC9jaGluYS1zLWNvbnN1bWVyLXByaWNlcy1qdW1wLWFkZGluZy10by1pbmZsYXRpb24tY29uY2VybnM=",
+      "urlToImage": null,
+      "publishedAt": "2022-08-10T01:36:00Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Brayden Lindrea",
+      "title": "Coinbase posts $1.1B loss in Q2 on ‘fast and furious’ crypto downturn - Cointelegraph",
+      "description": "Coinbase’s share price fell 10.55% on Tuesday following the release of its Q2 results, which saw the company posting a $1.1 billion net loss on falling asset prices.",
+      "url": "https://cointelegraph.com/news/coinbase-posts-1-1b-loss-in-q2-on-fast-and-furious-crypto-downturn",
+      "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDgvZTVmY2E5MzMtZmE0Zi00NjZmLTljNDItODZmMTczMDBjNGI2LmpwZw==.jpg",
+      "publishedAt": "2022-08-10T01:25:20Z",
+      "content": "Crypto exchange giant Coinbase has cited a fast and furious downturn of the crypto markets as the reasons behind a staggering $1.1 billion net loss in the second quarter of 2022, which also saw tradi… [+2590 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Jim Cramer explains why betting against the shorts is a high-risk strategy - CNBC Television",
+      "description": "CNBC's Jim Cramer gave his take on why betting against short-sellers is a high-risk, often losing strategy on Tuesday's episode of \"Mad Money.\"",
+      "url": "https://www.youtube.com/watch?v=Qq1nPph0XaQ",
+      "urlToImage": "https://i.ytimg.com/vi/Qq1nPph0XaQ/hqdefault.jpg",
+      "publishedAt": "2022-08-10T00:34:51Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Alexander Gladstone, Soma Biswas",
+      "title": "Drugmaker Endo Says Bankruptcy Likely Imminent - The Wall Street Journal",
+      "description": "The drugmaker has been in talks with lenders, but also faces thousands of lawsuits from government and private plaintiffs alleging it fueled opioid addiction",
+      "url": "https://www.wsj.com/articles/drugmaker-endo-says-bankruptcy-likely-imminent-11660051928",
+      "urlToImage": "https://images.wsj.net/im-600296/social",
+      "publishedAt": "2022-08-10T00:19:00Z",
+      "content": "Endo International PLC, a pharmaceutical manufacturer facing thousands of lawsuits alleging it fueled the opioid addiction crisis, said Tuesday that it is likely to file for bankruptcy imminently.\r\nT… [+287 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KABC-TV"
+      },
+      "author": null,
+      "title": "TikTok challenge: Video shows Lakewood man fall victim to social media trend that teaches thieves to steal Hyundai, Kia cars - KABC-TV",
+      "description": "A Lakewood man is apparently the latest victim of a TikTok challenge in which people fall prey to thieves stealing their Kia and Hyundai cars.",
+      "url": "https://abc7.com/lakewood-tiktok-challenge-social-media-scams-kia-hyundai-cars-stolen/12113154/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/12113197_08092022-kabc-4p-tiktok-car-theft-vid.jpg?w=1600",
+      "publishedAt": "2022-08-10T00:03:27Z",
+      "content": "LAKEWOOD, Calif. (KABC) -- Brad Crihfield of Lakewood is trying to wrap his head around what happened outside his home last Monday.\r\n\"It's confusing to think that that can just happen, and it happene… [+2174 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Triangle Business Journal"
+      },
+      "author": null,
+      "title": "Wall Street unimpressed by AppLovin's $17.5B offer for Unity Software - Silicon Valley Business Journal - The Business Journals",
+      "description": null,
+      "url": "https://www.bizjournals.com/sanjose/news/2022/08/09/wall-street-unimpressed-by-applovin-unity-deal.html",
+      "urlToImage": null,
+      "publishedAt": "2022-08-09T23:39:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "author": "Sam Reynolds, James Rubin",
+      "title": "First Mover Asia: Bitcoin Snaps Its 4-Day Rally Tuesday; Troubles in Cryptoland? Not at Korea's Muted Mega-Blockchain Week - CoinDesk",
+      "description": "The Seoul-based event has offered a welcome return to in-person interaction but failed to tackle the industry's most burning themes or challenge its panelists.",
+      "url": "https://www.coindesk.com/markets/2022/08/09/first-mover-asia-bitcoin-snaps-its-4-day-rally-tuesday-troubles-in-cryptoland-not-at-koreas-muted-mega-blockchain-week/",
+      "urlToImage": "https://www.coindesk.com/resizer/GM1h6PVwLl_1kWGi1FRBRqfc4Nc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KM233GKIFRHSDDCSLTLJO5SOB4.jpg",
+      "publishedAt": "2022-08-09T23:37:00Z",
+      "content": "Good morning. Heres whats happening:\r\nPrices: Bitcoin snaps its four-day rally; ether and other cryptos are lower.\r\nInsights: A muted Korea Blockchain Week fails to tackle the industry's recent troub… [+10448 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "China Orders Audit of $3 Trillion Trust Industry - Bloomberg Markets and Finance",
+      "description": "China's $3 trillion trust industry is under scrutiny by the nation's top auditor. This comes as losses on loans to the property sector are mounting, posing r...",
+      "url": "https://www.youtube.com/watch?v=g0pOAVCi7e0",
+      "urlToImage": "https://i.ytimg.com/vi/g0pOAVCi7e0/hqdefault.jpg",
+      "publishedAt": "2022-08-09T23:28:56Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Nasdaq closes lower as chipmaker Micron's warning renews tech rout - Reuters",
+      "description": "The Nasdaq closed down on Tuesday after a dismal forecast from Micron Technology pulled chip makers and tech stocks lower as investors await U.S. inflation data that could lead the Federal Reserve to further tighten its efforts to curb inflation.",
+      "url": "https://www.reuters.com/markets/europe/sp-500-nasdaq-futures-slip-after-chipmaker-microns-warning-2022-08-09/",
+      "urlToImage": "https://www.reuters.com/resizer/Dz95PfR6yKN65CHEQVgtnXP8gYs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/4JHXCDXERJPCZH3T4WFN3BLGPA.jpg",
+      "publishedAt": "2022-08-09T23:20:00Z",
+      "content": "NEW YORK, Aug 9 (Reuters) - The Nasdaq closed down on Tuesday after a dismal forecast from Micron Technology pulled chip makers and tech stocks lower as investors await U.S. inflation data that could… [+4999 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Emily Heil",
+      "title": "Domino's closes Italy locations as diners prefer local pizza - The Washington Post",
+      "description": "The company that ran Italian franchises for Domino's said customers favored mom-and-pop pies.",
+      "url": "https://www.washingtonpost.com/food/2022/08/09/dominos-italy-franchise-closures/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W4SD3CAX7AI63OMYWKVWR5MENA.jpg&w=1440",
+      "publishedAt": "2022-08-09T23:04:00Z",
+      "content": "Comment on this story\r\nWho would have guessed that denizens of Italy, where pizza is an internationally recognized national treasure, wouldnt have gone crazy for mass-produced, over-the-top American … [+3321 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Drivers find relief at gas pump as prices drop - CBS Evening News",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DVdH3RM5QhcE",
+      "urlToImage": null,
+      "publishedAt": "2022-08-09T22:56:17Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    }
+  ]
+}
